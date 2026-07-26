@@ -1,1 +1,1 @@
-Elective project report for COD (UE23EC343BB2), PES University.
+Project for Computer Organization and Design(UE23EC352A), PES University.
